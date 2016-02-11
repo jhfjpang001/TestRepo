@@ -167,7 +167,7 @@ public class Client {
     
     public static Client createTestClient() {
         Client client = new Client();
-        client.setFirstName("George");
+        client.setFirstName("Peter");
         client.setSurname("Foo");
         client.setNickname("Juraj");
         client.setAge(30);
